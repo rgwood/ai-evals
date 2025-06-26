@@ -17,3 +17,7 @@ Not great.
 #### 2025-06-25
 
 **Claude 4.0 Opus:**
+
+Better.
+
+"Examples demonstrate viability but limited application" section is incorrect. But otherwise pretty good!
