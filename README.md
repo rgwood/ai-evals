@@ -24,3 +24,9 @@ Not great.
 **Claude 4.0 Opus:**
 
 "Examples demonstrate viability but limited application" section is incorrect. But otherwise pretty good summary of laneways. Doesn't touch on the RT coach house thing.
+
+#### 2025-06-26
+
+**Gemini 2.5 Pro:**
+
+TODO analyze this
