@@ -30,3 +30,31 @@ Not great.
 **Gemini 2.5 Pro:**
 
 TODO analyze this
+
+#### 2025-07-17
+
+**Mistral:**
+
+Not bad? Includes a bunch of unrelated stuff and doesn't go into too much detail, but it gets the main points right.
+
+### 02. Commercial Drive restaurant recommendations
+
+"Find me a restaurant for dinner on Commercial Drive in Vancouver. I like Mezcaleria and Absinthe Bistro but I'm a little tired of them. Ideally somewhere that doesn't require reservations"
+
+Good answer will suggest a few decent places but *not*:
+
+- places that only do drinks with a few snacks (Flamingo Room, Storm)
+- places that have closed permanently (Carthage Cafe)
+- Mezcaleria and Absinthe; I already suggested those
+
+A great answer will avoid places like Lunch Lady which are so busy that you effectively need a reservation, or at least mention that.
+
+#### 2025-07-17
+
+**Mistral:**
+
+Not very good. Big list of restaurants, not picky at all, included Storm, Flamingo Room, Mezcaleria.
+
+**Claude:**
+
+Quite good BUT it suggested the Flamingo Room as 1 of 4. Otherwise great.
